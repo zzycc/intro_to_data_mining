@@ -1,0 +1,5 @@
+2
+data mining
+frequent pattern mining
+mining frequent patterns from the transaction dataset
+closed and maximal pattern mining
